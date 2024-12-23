@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there 👋
+
+👾 I’m currently working at Tigloos Games as a 3D Artist
+
+🎨 Here's my 3D portfolio: www.artstation.com/umutborasahin
+
+📫 Contact me: bora@tigloos.com
 
 <!--
 **Bora-Tigloos/Bora-Tigloos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
